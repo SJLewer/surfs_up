@@ -2,22 +2,22 @@
 
 ## Project Overview
 Analyze weather data from Oahu, Hawaii to provide information that will be used to determine the viability of opening a
-year-round Surf 'n' Shake Shop in Oahu.  The analysis for this project will focus on gathering statistics for the 
+year-round Surf 'n' Shake Shop in Oahu.  The analysis for this project will focus on analyzing the temperatures for the 
 months of June and December.
 
 ## Results:
-  _June vs December Temperatures_ - ...
+  _June vs December Temperatures_ 
  
  ![image](https://user-images.githubusercontent.com/90986041/141600378-01d8645a-d065-4632-8124-81f511d8cfe2.png)
  ![image](https://user-images.githubusercontent.com/90986041/141600444-0ae17984-2ad7-4fd0-be9c-b5ad550d8bb9.png)
   
-Bulleted list that addresses 3 key differences in the J vs D weather
- * _SCHOOL SUMMARY_ - 
- 
- * _SCHOOL RANKINGS_ - Thomas High School's overall performance relative to other schools did not change. 
-    
- * _#3_:
-
+The large number of counts for both June and December provide confidence and high credibility of the statistical results.
+ * The average temperatures for each month are the same as the 50% percentiles, which indicates the results for both months 
+    are not skewed.
+ * The low standard deviations indicate the data is clustered near the mean.  December's data is slightly more spread out.
+ * Oahu's temperatures in June and December are fairly consistent with only 4° between the average temperatures. Not too
+    surprising June's temperatures are slightly higher than December's.
+  
 
  ### _Additional Analyses_:
  
