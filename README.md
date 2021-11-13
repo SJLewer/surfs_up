@@ -44,6 +44,6 @@ ___
 ## Resources
 _Data Sources_: 
 
-_Python 3.7.6 Script_: 
+_Python 3.7.6 Script_: https://github.com/SJLewer/surfs_up/blob/main/SurfsUp_Challenge.ipynb
 
 _Analyst_: S. Lewer
